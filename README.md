@@ -1,14 +1,14 @@
 ##Olá! Eu sou o Gabriel Miranda👋
 
 
-- 🔭 Atualmente trabalho como monitor de programção e sou pesquisador no núcle de pesquisa UFV-Nesped...
+- 🔭 Atualmente trabalho como monitor de programação e sou pesquisador no núcleo de pesquisa UFV-Nesped...
 - 🌱 Estudande do 6º período de Ciência da Computação ...
 - 😄 Pronouns:Ele/dele
 
 <div align="center">
   <a href="https://github.com/GabriellMiranda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabriellMiranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMiranda&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabriellMiranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellMiranda&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
