@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente trabalho como Desenvolvedor do Software, e sou pesquisador no núcleo de pesquisa UFV-Nesped...
 - 🌱 Bacharel em Ciência da Computação 
-- 🌱 Mesntrando em Ciência da Computação
 <div align="center">
   <a href="https://github.com/GabriellMiranda">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabriellMiranda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
