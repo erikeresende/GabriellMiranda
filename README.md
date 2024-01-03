@@ -1,7 +1,7 @@
 ##Olá! Eu sou o Gabriel Miranda👋
 
 
-- 🔭 Atualmente trabalho como Desenvolvedor do Software, e sou pesquisador no núcleo de pesquisa UFV-Nesped...
+- 🔭 Atualmente trabalho como Desenvolvedor do Software...
 - 🌱 Bacharel em Ciência da Computação 
 <div align="center">
   <a href="https://github.com/GabriellMiranda">
