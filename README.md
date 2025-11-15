@@ -1,8 +1,8 @@
-##Olá! Eu sou o Gabriel Miranda👋
+##Olá! Eu sou o Érike Resende👋
 
 
 - 🔭 Atualmente trabalho como Desenvolvedor do Software...
-- 🌱 Bacharel em Ciência da Computação 
+- 🌱 Tecnólogo em Análise e Desenvolvimento de Sistemas. 
 <div align="center">
   <a href="https://github.com/erikeresende">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=erikeresende&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
